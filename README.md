@@ -1,6 +1,6 @@
 # CURIO 雙環自調校飛行控制韌體 — 運作模式說明
 
-<img width="729" height="985" alt="1782283660066" src="https://github.com/user-attachments/assets/41f03eee-f86f-44aa-8c3b-96f59c9855c4" />
+<img width="554" height="740" alt="1782283660066" src="https://github.com/user-attachments/assets/46df4acc-4494-404e-8acd-23c1d013f688" />
 
 
 ---

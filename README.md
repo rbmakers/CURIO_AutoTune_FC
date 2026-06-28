@@ -1,7 +1,6 @@
 # CURIO 雙環自調校飛行控制韌體 — 運作模式說明
 
-對應程式：`CURIO_AutoTune_Dual_PID.ino`
-硬體平台：CURIO (RP2350 / RP2040)，BMI088 + ELRS/CRSF
+
 
 ---
 
